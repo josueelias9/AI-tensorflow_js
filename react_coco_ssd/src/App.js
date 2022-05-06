@@ -1,9 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import CompTensorFlow from './components/compTensorFlow';
 
 function App() {
   return (
     <div className="App">
+      <CompTensorFlow />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
