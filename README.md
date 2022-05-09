@@ -1,6 +1,5 @@
-# javascript IA
- 
-
+# JavaScript IA
+Migracion de las librerias del repositorio github https://github.com/tensorflow/tfjs-models de algoritmos a react 
 # Deploy
 
 - seguir los pasos para instalar react https://es.reactjs.org/
